@@ -1,4 +1,9 @@
-const API_URL = 'http://localhost:3000/alunos';
+// const API_URL = 'http://localhost:3000/alunos';
+
+
+
+
+const API_URL = 'https://backend-5w5f.onrender.com/alunos';
 
 const formulario = document.querySelector('#form-aluno');
 const campoId = document.querySelector('#aluno-id');
